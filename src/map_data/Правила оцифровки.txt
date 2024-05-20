@@ -1,0 +1,47 @@
+Object -> Object Properties
+
+inkscape:label
+
+Имя точки
+point_{floor}_{id}
+
+Имя точки аудитории
+room_point_{floor}_{N}
+
+Имя сплайна аудитории
+room_{floor}_{N}
+
+Имя лестницы
+stairs_right
+stairs_left
+
+Точки лестницы
+-- strais_left_point_{floor} -- 
+strais_left_point
+
+Слои и группы:
+floor{n}
+	points
+	rooms
+	rib
+
+Rooms path
+style="stroke:#000000;stroke-opacity:1;fill-opacity:1"
+Fill unset (нажать на иконку вопроса)
+data-target-point="room_point_4"
+
+Point
+Убрать заливку???
+
+<xhtml:link
+   rel="stylesheet"
+   href="map-style.css"
+   type="text/css" />
+   
+   
+Edit -> Resize page to selection
+
+Валидация на отсуттвие дубликатов id
+На дубликаты в json
+Скрыть точки
+Единообразно именовать слои/группы, чтобы css правильно применялся

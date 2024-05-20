@@ -22,8 +22,12 @@ import '@ionic/react/css/display.css';
 
 /* Theme variables */
 import './theme/variables.css';
+// import './theme/nordic.css';
 
-setupIonicReact();
+setupIonicReact({
+  // rippleEffect: false,
+  mode: 'ios',
+});
 
 const App: React.FC = () => {
   return (

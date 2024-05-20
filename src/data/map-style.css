@@ -1,0 +1,14 @@
+#g24 path:hover {
+    fill: #eceff4;
+    stroke: #e5e9f0;
+    /* stroke-width: 3px;
+    transition: fill 0.4s; */
+}
+
+#g24 path {
+    fill: #b1f8b1;
+}
+
+.selected-room {
+    fill: red !important;
+}

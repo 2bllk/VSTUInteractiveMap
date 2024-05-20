@@ -1,0 +1,163 @@
+{
+  "edges": [
+    {
+      "from": "room_point_3_311",
+      "to": "point_3_311"
+    },
+    {
+      "from": "room_point_3_310",
+      "to": "point_3_310"
+    },
+    {
+      "from": "room_point_3_310a",
+      "to": "point_3_310a"
+    },
+    {
+      "from": "room_point_3_Wtoilet",
+      "to": "point_3_Wtoilet"
+    },
+    {
+      "from": "room_point_3_309",
+      "to": "point_3_309"
+    },
+    {
+      "from": "room_point_3_CloseClass",
+      "to": "point_3_CloseClass"
+    },
+    {
+      "from": "room_point_3_308",
+      "to": "point_3_308"
+    },
+    {
+      "from": "room_point_3_307",
+      "to": "point_3_307"
+    },
+    {
+      "from": "room_point_3_304",
+      "to": "point_3_304"
+    },
+    {
+      "from": "room_point_3_305",
+      "to": "point_3_305"
+    },
+    {
+      "from": "room_point_3_302",
+      "to": "point_3_302"
+    },
+    {
+      "from": "room_point_3_303",
+      "to": "point_3_303"
+    },
+    {
+      "from": "room_point_3_301",
+      "to": "point_3_301"
+    },
+    {
+      "from": "room_point_3_312",
+      "to": "point_3_312"
+    },
+    {
+      "from": "room_point_3_tikhnichka",
+      "to": "point_3_tikhnichka"
+    },
+    {
+      "from": "room_point_3_Mtoilet",
+      "to": "point_3_Mtoilet"
+    },
+
+
+
+
+
+
+    {
+      "from": "point_3_310a",
+      "to": "point_3_311"
+    },
+    {
+      "from": "point_3_311",
+      "to": "point_3_310a"
+    },
+    {
+      "from": "point_3_310a",
+      "to": "point_3_Wtoilet"
+    },
+    {
+      "from": "point_3_310",
+      "to": "point_3_309"
+    },
+    {
+      "from": "point_3_309s",
+      "to": "point_3_CloseClass"
+    },
+    {
+      "from": "point_3_CloseClass",
+      "to": "point_3_308"
+    },
+    {
+      "from": "point_3_308",
+      "to": "point_3_307"
+    },
+    {
+      "from": "point_3_307",
+      "to": "point_3_304"
+    },
+    {
+      "from": "point_3_304",
+      "to": "point_3_305"
+    },
+    {
+      "from": "point_3_305",
+      "to": "point_3_302"
+    },
+    {
+      "from": "point_3_302",
+      "to": "point_3_303"
+    },
+    {
+      "from": "point_3_303",
+      "to": "point_3_301"
+    },
+    {
+      "from": "point_3_301",
+      "to": "point_3_312"
+    },
+    {
+      "from": "point_3_312",
+      "to": "point_3_tikhnichka"
+    },
+    {
+      "from": "point_3_tikhnichka",
+      "to": "point_3_Mtoilet"
+    },
+	
+	
+	
+	
+	{
+      "from": "stairs_left_point",
+      "to": "point_3_stairs_left"
+    },
+    {
+      "from": "point_3_stairs_left",
+      "to": "point_3_310"
+    },
+	{
+      "from": "point_3_stairs_left",
+      "to": "point_3_309"
+    },
+	
+	{
+      "from": "stairs_right_point",
+      "to": "point_3_stairs_right"
+    },
+    {
+      "from": "point_3_stairs_right",
+      "to": "point_3_303"
+    },
+	{
+      "from": "point_3_stairs_right",
+      "to": "point_3_301"
+    }
+  ]
+}

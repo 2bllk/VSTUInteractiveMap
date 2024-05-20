@@ -1,0 +1,232 @@
+{
+    "nodes": [
+      {
+        "id": 1
+      },
+
+      {
+        "id": 2
+      },
+
+      {
+        "id": 3
+      }
+    ],
+  "edges": [
+    {
+      "from": "room_point_2_201",
+      "to": "point_2_201"
+    },
+    {
+      "from": "room_point_2_202a",
+      "to": "point_2_202a"
+    },
+    {
+      "from": "room_point_2_200",
+      "to": "point_2_200"
+    },
+    {
+      "from": "room_point_2_202b",
+      "to": "point_2_202b"
+    },
+    {
+      "from": "room_point_2_202",
+      "to": "point_2_202"
+    },
+    {
+      "from": "room_point_2_202b",
+      "to": "point_2_202b"
+    },
+    {
+      "from": "room_point_2_203",
+      "to": "point_2_203"
+    },
+    {
+      "from": "room_point_2_204",
+      "to": "point_2_204"
+    },
+    {
+      "from": "room_point_2_205b",
+      "to": "point_2_205b"
+    },
+    {
+      "from": "room_point_2_206",
+      "to": "point_2_206"
+    },
+    {
+      "from": "room_point_2_205",
+      "to": "point_2_205"
+    },
+    {
+      "from": "room_point_2_205a",
+      "to": "point_2_205a"
+    },
+    {
+      "from": "room_point_2_208",
+      "to": "point_2_208"
+    },
+    {
+      "from": "room_point_2_207",
+      "to": "point_2_207"
+    },
+    {
+      "from": "room_point_2_209a",
+      "to": "point_2_209a"
+    },
+    {
+      "from": "room_point_2_209b",
+      "to": "point_2_209b"
+    },
+    {
+      "from": "room_point_2_209v",
+      "to": "point_2_209v"
+    },
+    {
+      "from": "room_point_2_210a",
+      "to": "point_2_210a"
+    },
+    {
+      "from": "room_point_2_211",
+      "to": "point_2_211"
+    },
+    {
+      "from": "room_point_2_210",
+      "to": "point_2_210"
+    },
+    {
+      "from": "room_point_2_213",
+      "to": "point_2_213"
+    },
+    {
+      "from": "room_point_2_212",
+      "to": "point_2_212"
+    },
+    {
+      "from": "room_point_2_215",
+      "to": "point_2_215"
+    },
+    {
+      "from": "room_point_2_214",
+      "to": "point_2_214"
+    },
+    {
+      "from": "room_point_2_Mtoilet",
+      "to": "point_2_Mtoilet"
+    },
+    {
+      "from": "room_point_2_Wtoilet",
+      "to": "point_2_Wtoilet"
+    },
+
+
+
+    {
+      "from": "point_2_201",
+      "to": "point_2_202a"
+    },
+    {
+      "from": "point_2_202a",
+      "to": "point_2_200"
+    },
+    {
+      "from": "point_2_200",
+      "to": "point_2_202b"
+    },
+    {
+      "from": "point_2_202b",
+      "to": "point_2_202"
+    },
+    {
+      "from": "point_2_202",
+      "to": "point_2_200b"
+    },
+    {
+      "from": "point_2_201",
+      "to": "point_2_203"
+    },
+    {
+      "from": "point_2_203",
+      "to": "point_2_204"
+    },
+    {
+      "from": "point_2_204",
+      "to": "point_2_205b"
+    },
+    {
+      "from": "point_2_205b",
+      "to": "point_2_206"
+    },
+    {
+      "from": "point_2_206",
+      "to": "point_2_205_sum"
+    },
+    {
+      "from": "point_2_205_sum",
+      "to": "point_2_205a"
+    },
+    {
+      "from": "point_2_205a",
+      "to": "point_2_205"
+    },
+    {
+      "from": "point_2_205_sum",
+      "to": "point_2_208"
+    },
+    {
+      "from": "point_2_208",
+      "to": "point_2_207"
+    },
+    {
+      "from": "point_2_207",
+      "to": "point_2_209_sum"
+    },
+    {
+      "from": "point_2_209_sum",
+      "to": "point_2_209b"
+    },
+    {
+      "from": "point_2_209b",
+      "to": "point_2_209a"
+    },
+    {
+      "from": "point_2_209b",
+      "to": "point_2_209v"
+    },
+    {
+      "from": "point_2_209_sum",
+      "to": "point_2_210a"
+    },
+    {
+      "from": "point_2_210a",
+      "to": "point_2_211"
+    },
+    {
+      "from": "point_2_211",
+      "to": "point_2_210"
+    },
+    {
+      "from": "point_2_210",
+      "to": "point_2_213"
+    },
+    {
+      "from": "point_2_213",
+      "to": "point_2_212"
+    },
+    {
+      "from": "point_2_212",
+      "to": "point_2_215"
+    },
+    {
+      "from": "point_2_215",
+      "to": "point_2_214"
+    },
+    {
+      "from": "point_2_Mtoilet",
+      "to": "point_2_201"
+    },
+    {
+      "from": "point_2_Wtoilet",
+      "to": "point_2_209_sum"
+    }
+  ]
+}
