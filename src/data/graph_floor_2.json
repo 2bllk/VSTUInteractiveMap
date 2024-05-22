@@ -140,10 +140,19 @@
       "from": "point_2_202",
       "to": "point_2_200b"
     },
+
+
+
+    {
+      "from": "point_2_203",
+      "to": "stairs_right_point"
+    },
     {
       "from": "point_2_201",
       "to": "point_2_203"
     },
+
+
     {
       "from": "point_2_203",
       "to": "point_2_204"
@@ -175,6 +184,10 @@
     {
       "from": "point_2_208",
       "to": "point_2_207"
+    },
+    {
+      "from": "point_2_207",
+      "to": "stairs_left_point"
     },
     {
       "from": "point_2_207",

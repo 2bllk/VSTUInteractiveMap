@@ -16,8 +16,8 @@ stairs_right
 stairs_left
 
 Точки лестницы
--- strais_left_point_{floor} -- 
-strais_left_point
+-- stairs_left_point_{floor} -- 
+stairs_left_point
 
 Слои и группы:
 floor{n}

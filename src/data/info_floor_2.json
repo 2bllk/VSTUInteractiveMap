@@ -1,0 +1,328 @@
+[
+  {
+    "roomId": "room_2_201",
+    "floor": 2,
+    "name": "Аудитория 201",
+    "type": "Центр проведения демонстрационного экзамена",
+    "desc": null,
+    "placesCount": 20,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 10,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_2_202a",
+    "floor": 2,
+    "name": "Аудитория 202a",
+    "type": "Служебное помещение",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_200",
+    "floor": 2,
+    "name": "Аудитория 200",
+    "type": "Проектное пространство ФИТКБ",
+    "desc": null,
+    "placesCount": 30,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_202b",
+    "floor": 2,
+    "name": "Аудитория 202b",
+    "type": "Преподавательская кафедры компьютерных технологий проектирования",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_202",
+    "floor": 2,
+    "name": "Аудитория 202",
+    "type": "Лаборатория компьютерного моделирования и дизайна",
+    "desc": null,
+    "placesCount": 15,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 10,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_2_200b",
+    "floor": 2,
+    "name": "Аудитория 200b",
+    "type": "Приемная",
+    "desc": "Заведующий кафедрой прикладной математики и механики, доктор технических наук, профессор Ряжских Виктор Иванович",
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_204",
+    "floor": 2,
+    "name": "Аудитория 204",
+    "type": "Центр проведения демонстрационного экзамена",
+    "desc": null,
+    "placesCount": 20,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 10,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_2_203",
+    "floor": 2,
+    "name": "Аудитория 203",
+    "type": "Центр проведения демонстрационного экзамена",
+    "desc": null,
+    "placesCount": 20,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 10,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_2_205b",
+    "floor": 2,
+    "name": "Аудитория 205б",
+    "type": "Компьютерный класс кафедры графики, конструирования и информационных технологий в промышленном дизайне",
+    "desc": null,
+    "placesCount": 12,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 12,
+        "icon": "desktop"
+      },
+      {
+        "name": "Проектор",
+        "count": 1,
+        "icon": "videocam"
+      }
+    ]
+  },
+  {
+    "roomId": "room_2_206",
+    "floor": 2,
+    "name": "Аудитория 206",
+    "type": "Центр проведения демонстрационного экзамена",
+    "desc": null,
+    "placesCount": 10,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 10,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_2_205",
+    "floor": 2,
+    "name": "Аудитория 205",
+    "type": "Лаборантская кафедры графики, конструирования и информационных технологий в промышленном дизайне",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_205a",
+    "floor": 2,
+    "name": "Аудитория 205a",
+    "type": "Компьютерный класс кафедры графики, конструирования и информационных технологий в промышленном дизайне",
+    "desc": null,
+    "placesCount": 20,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 12,
+        "icon": "desktop"
+      },
+      {
+        "name": "Проектор",
+        "count": 1,
+        "icon": "videocam"
+      },
+      {
+        "name": "Маркерная доска",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_2_208",
+    "floor": 2,
+    "name": "Аудитория 208",
+    "type": "Лаборатория телекоммуникационных и сетевых технологий кафедры компьютерных интеллектуальных технологий проектирования",
+    "desc": null,
+    "placesCount": 14,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_207",
+    "floor": 2,
+    "name": "Аудитория 207",
+    "type": "Приемная",
+    "desc": "Профессор, доктор технических наук Кузовкин Алексей Викторович, заведующий кафедрой графики, конструирования и информационных технологий в промышленном дизайне",
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_209a",
+    "floor": 2,
+    "name": "Аудитория 209а",
+    "type": "Компьютерный класс",
+    "desc": null,
+    "placesCount": 20,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 10,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_2_209b",
+    "floor": 2,
+    "name": "Аудитория 209б",
+    "type": "Лаборатория",
+    "desc": null,
+    "placesCount": 15,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_209v",
+    "floor": 2,
+    "name": "Аудитория 209в",
+    "type": "Преподавательская",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_210a",
+    "floor": 2,
+    "name": "Аудитория 210a",
+    "type": "Служебное помещение",
+    "desc": "Посторонним вход воспрещен",
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_211",
+    "floor": 2,
+    "name": "Аудитория 211",
+    "type": "Заведующий лабораториями, инженерная группа",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_210",
+    "floor": 2,
+    "name": "Аудитория 210",
+    "type": "Интернет-лаборатория",
+    "desc": null,
+    "placesCount": 10,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 10,
+        "icon": "desktop"
+      },
+      {
+        "name": "Проектор",
+        "count": 1,
+        "icon": "videocam"
+      }
+    ]
+  },
+  {
+    "roomId": "room_2_213",
+    "floor": 2,
+    "name": "Аудитория 213",
+    "type": "Учебный центр ВГТУ, академии Софтлайн, сетевой академии CISCO",
+    "desc": null,
+    "placesCount": 15,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_212",
+    "floor": 2,
+    "name": "Аудитория 212",
+    "type": "Преподавательская",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_215",
+    "floor": 2,
+    "name": "Аудитория 215",
+    "type": "Лаборатория интеллектуальных систем проектирования",
+    "desc": null,
+    "placesCount": 15,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_214",
+    "floor": 2,
+    "name": "Аудитория 214",
+    "type": "Приемная",
+    "desc": "Заведующий кафедрой компьютерных интеллектуальных технологий проектирования д.т.н., профессор Чижов Михаил Иванович",
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_Mtoilet",
+    "floor": 2,
+    "name": "Мужской туалет",
+    "type": "Мужской туалет",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "room_2_Wtoilet",
+    "floor": 2,
+    "name": "Женский туалет",
+    "type": "Женский туалет",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "stairs_left",
+    "floor": 2,
+    "name": "Лестница",
+    "type": "Лестница",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "stairs_right",
+    "floor": 2,
+    "name": "Лестница",
+    "type": "Лестница",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  }
+]

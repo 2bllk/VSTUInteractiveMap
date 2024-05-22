@@ -1,0 +1,309 @@
+[
+  {
+    "roomId": "room_1_101",
+    "floor": 1,
+    "name": "Аудитория 101",
+    "type": "Кафедра автоматизированного оборудования",
+    "desc": null,
+    "placesCount": 5,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 2,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_",
+    "floor": 1,
+    "name": "Аудитория ",
+    "type": "Комендант",
+    "desc": null,
+    "placesCount": 1,
+    "equipment": []
+  },
+  {
+    "roomId": "room_1_101а",
+    "floor": 1,
+    "name": "Аудитория 101а",
+    "type": "Преподавательская кафедры прикладной математики и механики",
+    "desc": null,
+    "placesCount": 10,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 3,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_103б",
+    "floor": 1,
+    "name": "Аудитория 103б",
+    "type": "Лаборантская кафедры прикладной математики и механики",
+    "desc": null,
+    "placesCount": 30,
+    "equipment": []
+  },
+  {
+    "roomId": "room_1_103а",
+    "floor": 1,
+    "name": "Аудитория 103а",
+    "type": "Преподавательская кафедры прикладной математики и механики",
+    "desc": null,
+    "placesCount": 8,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 2,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_105/2",
+    "floor": 1,
+    "name": "Аудитория 105/2",
+    "type": null,
+    "desc": null,
+    "placesCount": 20,
+    "equipment": [
+      {
+        "name": "Доска маркерная",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_104/2",
+    "floor": 1,
+    "name": "Аудитория 104/2",
+    "type": "Кафедра технологии машиностроения",
+    "desc": null,
+    "placesCount": 3,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 4,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_106",
+    "floor": 1,
+    "name": "Аудитория 106",
+    "type": "Управление информационных технологий",
+    "desc": null,
+    "placesCount": 24,
+    "equipment": []
+  },
+  {
+    "roomId": "room_1_108",
+    "floor": 1,
+    "name": "Аудитория 108",
+    "type": "Научно-исследовательская лаборатория кафедры прикладной математики и механики",
+    "desc": null,
+    "placesCount": 32,
+    "equipment": []
+  },
+  {
+    "roomId": "room_1_110",
+    "floor": 1,
+    "name": "Аудитория 110",
+    "type": "Учебная лаборатория кафедры прикладной математики и механики",
+    "desc": null,
+    "placesCount": 20,
+    "equipment": [
+      {
+        "name": "Доска маркерная",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_109a",
+    "floor": 1,
+    "name": "Аудитория 109a",
+    "type": "Преподавательская кафедры нефтегазового оборудования и транспортировки",
+    "desc": null,
+    "placesCount": 6,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 2,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_109",
+    "floor": 1,
+    "name": "Аудитория 109",
+    "type": "Компьютерный класс кафедры нефтегазового оборудования и транспортировки",
+    "desc": null,
+    "placesCount": 22,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 20,
+        "icon": "desktop"
+      },
+      {
+        "name": "Проектор",
+        "count": 1,
+        "icon": "videocam"
+      },
+      {
+        "name": "Доска маркерная",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_109б,в",
+    "floor": 1,
+    "name": "Аудитория 109б,в",
+    "type": "Приемная кафедры нефтегазового оборудования и транспортировки",
+    "desc": "Заведующий кафедрой доктор технических наук, профессор Валюхов Сергей Георгиевич, секретарь инженер кафедры НГОТ Дарнева Тамара Ивановна",
+    "placesCount": 16,
+    "equipment": []
+  },
+  {
+    "roomId": "room_1_111",
+    "floor": 1,
+    "name": "Аудитория 111",
+    "type": null,
+    "desc": null,
+    "placesCount": 24,
+    "equipment": [
+      {
+        "name": "Доска маркерная",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_112",
+    "floor": 1,
+    "name": "Аудитория 112",
+    "type": null,
+    "desc": "Заведующий кафедрой иностранных языков и технологии перевода доктор филологических наук, профессор кафедры Федоров Валерий Аркадьевич",
+    "placesCount": 26,
+    "equipment": [
+      {
+        "name": "Доска маркерная",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_113",
+    "floor": 1,
+    "name": "Аудитория 113",
+    "type": null,
+    "desc": null,
+    "placesCount": 28,
+    "equipment": [
+      {
+        "name": "Доска маркерная",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_114",
+    "floor": 1,
+    "name": "Аудитория 114",
+    "type": null,
+    "desc": null,
+    "placesCount": 20,
+    "equipment": [
+      {
+        "name": "Доска маркерная",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_115",
+    "floor": 1,
+    "name": "Аудитория 115",
+    "type": "Отдел организации образовательного процесса",
+    "desc": null,
+    "placesCount": 20,
+    "equipment": []
+  },
+  {
+    "roomId": "room_1_116",
+    "floor": 1,
+    "name": "Аудитория 116",
+    "type": null,
+    "desc": null,
+    "placesCount": 22,
+    "equipment": [
+      {
+        "name": "Доска маркерная",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_116a",
+    "floor": 1,
+    "name": "Аудитория 116a",
+    "type": null,
+    "desc": null,
+    "placesCount": 24,
+    "equipment": [
+      {
+        "name": "Доска маркерная",
+        "count": 1,
+        "icon": "easel"
+      }
+    ]
+  },
+  {
+    "roomId": "room_1_117",
+    "floor": 1,
+    "name": "Аудитория 117",
+    "type": "Кафедра иностранных языков и технологий перевода",
+    "desc": null,
+    "placesCount": 10,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 2,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "stairs_left",
+    "floor": 1,
+    "name": "Лестница",
+    "type": "Лестница",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "stairs_right",
+    "floor": 1,
+    "name": "Лестница",
+    "type": "Лестница",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  }
+]

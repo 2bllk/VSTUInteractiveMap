@@ -128,7 +128,7 @@
 		
 		{
             "from": "point_4_20",
-            "to": "strais_left_point"
+            "to": "stairs_left_point"
         },
 		{
             "from": "point_4_20",
@@ -140,7 +140,7 @@
         },
         {
             "from": "point_4_21",
-            "to": "strais_right_point"
+            "to": "stairs_right_point"
         },
 		{
             "from": "point_4_21",

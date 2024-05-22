@@ -31,7 +31,7 @@ def main(svgfile):
             elem.set('id', elem.attrib['{http://www.inkscape.org/namespaces/inkscape}label'])
 
     # Save the modified SVG file
-    tree.write('output.svg')
+    tree.write(svgfile + ".ab")
 
 
 if __name__ == '__main__':

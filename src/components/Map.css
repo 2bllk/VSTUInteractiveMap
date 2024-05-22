@@ -6,17 +6,43 @@
 }
 
 
-#floor4 #rooms rect:hover {
-    fill: #eceff4;
+#rooms rect:hover {
+    fill: #d0ffd0;
     /* stroke: #e5e9f0; */
     /* stroke-width: 3px;
     transition: fill 0.4s; */
 }
 
-#floor4 #rooms rect {
-    fill: #b1f8b1;
+#rooms rect,
+#rooms path {
+    fill: #eceff4;
 }
 
 .selected-room {
-    fill: red !important;
+    fill: #b1f8b1 !important;
+    /* fill: var(--ion-color-primary) !important; */
+}
+
+#pathIdD {
+    stroke: var(--ion-color-primary) !important;
+    animation-name: path;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+
+    /* animation-direction: reverse; */
+}
+
+@keyframes path {
+    100% {
+        stroke-dashoffset: 500;
+    }
+}
+
+.roomName {
+    /* fill: #7f7f7f; */
+}
+
+#points circle {
+    visibility: hidden;
 }

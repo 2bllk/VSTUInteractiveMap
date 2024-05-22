@@ -127,36 +127,23 @@
       "to": "point_3_tikhnichka"
     },
     {
+      "from": "point_3_310",
+      "to": "stairs_left_point"
+    },
+    {
+      "from": "stairs_left_point",
+      "to": "point_3_309"
+    },
+    {
       "from": "point_3_tikhnichka",
       "to": "point_3_Mtoilet"
     },
-	
-	
-	
-	
-	{
-      "from": "stairs_left_point",
-      "to": "point_3_stairs_left"
+    {
+      "from": "point_3_303",
+      "to": "stairs_right_point"
     },
     {
-      "from": "point_3_stairs_left",
-      "to": "point_3_310"
-    },
-	{
-      "from": "point_3_stairs_left",
-      "to": "point_3_309"
-    },
-	
-	{
       "from": "stairs_right_point",
-      "to": "point_3_stairs_right"
-    },
-    {
-      "from": "point_3_stairs_right",
-      "to": "point_3_303"
-    },
-	{
-      "from": "point_3_stairs_right",
       "to": "point_3_301"
     }
   ]

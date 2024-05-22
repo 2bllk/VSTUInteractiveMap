@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 1
+        },
+        {
+            "id": 2
+        },
+        {
+            "id": 3
+        }
+    ],
+    "edges": [
+        {
+            "from": "point_1_1",
+            "to": "point_1_106"
+        },
+        {
+            "from": "point_1_106",
+            "to": "room_point_1_106"
+        },
+        {
+            "from": "point_1_106",
+            "to": "point_1_3"
+        },
+        {
+            "from": "point_1_3",
+            "to": "stairs_right_point"
+        },
+        {
+            "from": "point_1_3",
+            "to": "point_1_comenda"
+        },
+        {
+            "from": "point_1_comenda",
+            "to": "room_point_1_comenda"
+        },
+        {
+            "from": "point_1_comenda",
+            "to": "point_1_101"
+        },
+        {
+            "from": "point_1_101",
+            "to": "room_point_1_101"
+        },
+        {
+            "from": "point_1_101",
+            "to": "room_point_1_101A"
+        },
+        {
+            "from": "point_1_101",
+            "to": "point_1_103Б"
+        },
+        {
+            "from": "point_1_103Б",
+            "to": "room_point_1_103Б"
+        },
+        {
+            "from": "point_1_103Б",
+            "to": "point_1_103A"
+        },
+        {
+            "from": "point_1_103A",
+            "to": "room_point_1_103A"
+        },
+        {
+            "from": "point_1_103A",
+            "to": "room_point_1_103"
+        },
+        {
+            "from": "point_1_103A",
+            "to": "point_1_105"
+        },
+        {
+            "from": "point_1_105",
+            "to": "room_point_1_105"
+        },
+        {
+            "from": "point_1_105",
+            "to": "room_point_1_104"
+        },
+        {
+            "from": "point_1_106",
+            "to": "point_1_108"
+        },
+        {
+            "from": "point_1_108",
+            "to": "room_point_1_108"
+        },
+        {
+            "from": "point_1_108",
+            "to": "point_1_110"
+        },
+        {
+            "from": "point_1_110",
+            "to": "point_1_buffet"
+        },
+        {
+            "from": "point_1_buffet",
+            "to": "room_point_1_buffet"
+        },
+        {
+            "from": "point_1_buffet",
+            "to": "point_1_4"
+        },
+        {
+            "from": "point_1_4",
+            "to": "stairs_left_point"
+        },
+        {
+            "from": "point_1_4",
+            "to": "point_1_109A"
+        },
+        {
+            "from": "point_1_109A",
+            "to": "point_1_2"
+        },
+        {
+            "from": "point_1_2",
+            "to": "point_1_109"
+        },
+        {
+            "from": "point_1_109",
+            "to": "room_point_1_109"
+        },
+        {
+            "from": "point_1_109",
+            "to": "room_point_1_109БВ"
+        },
+        {
+            "from": "point_1_2",
+            "to": "point_1_111"
+        },
+        {
+            "from": "point_1_111",
+            "to": "room_point_1_112"
+        },
+        {
+            "from": "point_1_111",
+            "to": "room_point_1_111"
+        },
+        {
+            "from": "point_1_111",
+            "to": "point_1_113"
+        },
+        {
+            "from": "point_1_113",
+            "to": "room_point_1_113"
+        },
+        {
+            "from": "point_1_113",
+            "to": "point_1_114"
+        },
+        {
+            "from": "point_1_114",
+            "to": "room_point_1_114"
+        },
+        {
+            "from": "point_1_114",
+            "to": "point_1_115"
+        },
+        {
+            "from": "point_1_115",
+            "to": "room_point_1_115"
+        },
+        {
+            "from": "point_1_115",
+            "to": "point_1_116"
+        },
+        {
+            "from": "point_1_116",
+            "to": "room_point_1_116"
+        },
+        {
+            "from": "point_1_116",
+            "to": "room_point_1_117"
+        },
+        {
+            "from": "room_point_1_116",
+            "to": "room_point_1_116A"
+        }
+    ]
+}

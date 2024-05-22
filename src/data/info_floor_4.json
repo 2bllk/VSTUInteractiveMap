@@ -1,0 +1,232 @@
+[
+    {
+        "roomId": "room_4_401",
+        "floor": 4,
+        "name": "Аудитория 401",
+        "type": "Кафедра САПРИС",
+        "desc": "зам зав кафедры Иванов Д.В.",
+        "placesCount": null,
+        "equipment": []
+    },
+    {
+        "roomId": "room_4_402",
+        "floor": 4,
+        "name": "Аудитория 402",
+        "type": null,
+        "desc": "Заведующий лабораторией",
+        "placesCount": null,
+        "equipment": []
+    },
+    {
+        "roomId": "room_4_403",
+        "floor": 4,
+        "name": "Аудитория 403",
+        "type": "Кафедра САПРИС",
+        "desc": "Учебная лаборатория",
+        "placesCount": 15,
+        "equipment": [
+            {
+                "name": "Компьютеры",
+                "count": 7,
+                "icon": "desktop"
+            }
+        ]
+    },
+    {
+        "roomId": "room_4_405",
+        "floor": 4,
+        "name": "Аудитория 405",
+        "type": "Учебная лаборатория",
+        "desc": null,
+        "placesCount": 28,
+        "equipment": [
+            {
+                "name": "Компьютеры",
+                "count": 12,
+                "icon": "desktop"
+            }
+        ]
+    },
+    {
+        "roomId": "room_4_406",
+        "floor": 4,
+        "name": "Аудитория 406",
+        "type": "Учебный центр Netcracker",
+        "desc": null,
+        "placesCount": 28,
+        "equipment": [
+            {
+                "name": "Компьютеры",
+                "count": 10,
+                "icon": "desktop"
+            }
+        ]
+    },
+    {
+        "roomId": "room_4_407",
+        "floor": 4,
+        "name": "Аудитория 407",
+        "type": "Учебно-образовательный центр Neoflex",
+        "desc": null,
+        "placesCount": 36,
+        "equipment": [
+            {
+                "name": "Компьютеры",
+                "count": 12,
+                "icon": "desktop"
+            },
+            {
+                "name": "Проектор",
+                "count": 1,
+                "icon": "videocam"
+            }
+        ]
+    },
+    {
+        "roomId": "room_4_408",
+        "floor": 4,
+        "name": "Аудитория 408",
+        "type": "Лаборатория разработки программных систем",
+        "desc": null,
+        "placesCount": 28,
+        "equipment": [
+            {
+                "name": "Компьютеры",
+                "count": 12,
+                "icon": "desktop"
+            }
+        ]
+    },
+    {
+        "roomId": "room_4_409",
+        "floor": 4,
+        "name": "Аудитория 409",
+        "type": "Учебная лаборатория",
+        "desc": null,
+        "placesCount": 36,
+        "equipment": []
+    },
+    {
+        "roomId": "room_4_410",
+        "floor": 4,
+        "name": "Аудитория 410",
+        "type": "Заведующий кафедрой АВС",
+        "desc": null,
+        "placesCount": null,
+        "equipment": []
+    },
+    {
+        "roomId": "room_4_411",
+        "floor": 4,
+        "name": "Аудитория 411",
+        "type": "Преподавательская САПРИС",
+        "desc": null,
+        "placesCount": null,
+        "equipment": []
+    },
+    {
+        "roomId": "room_4_411A",
+        "floor": 4,
+        "name": "Аудитория 411A",
+        "type": "Учебная лаборатория",
+        "desc": null,
+        "placesCount": 24,
+        "equipment": [
+            {
+                "name": "Компьютеры",
+                "count": 15,
+                "icon": "desktop"
+            }
+        ]
+    },
+    {
+        "roomId": "room_4_412",
+        "floor": 4,
+        "name": "Аудитория 412",
+        "type": "Лаборатория микропроцессорной техникой",
+        "desc": null,
+        "placesCount": 26,
+        "equipment": []
+    },
+    {
+        "roomId": "room_4_413",
+        "floor": 4,
+        "name": "Аудитория 413",
+        "type": "Преподавательская кафедры АВС",
+        "desc": null,
+        "placesCount": null,
+        "equipment": []
+    },
+    {
+        "roomId": "room_4_415",
+        "floor": 4,
+        "name": "Аудитория 415",
+        "type": "Лаборатория распределённых вычислений",
+        "desc": null,
+        "placesCount": 22,
+        "equipment": []
+    },
+    {
+        "roomId": "room_4_417",
+        "floor": 4,
+        "name": "Аудитория 417",
+        "type": "Лаборатория проектирования вычислительных комплексов и сетей",
+        "desc": null,
+        "placesCount": 24,
+        "equipment": [
+            {
+                "name": "Компьютеры",
+                "count": 7,
+                "icon": "desktop"
+            }
+        ]
+    },
+    {
+        "roomId": "room_4_419",
+        "floor": 4,
+        "name": "Аудитория 419",
+        "type": "Лаборатория телекоммуникационных сетей",
+        "desc": null,
+        "placesCount": 26,
+        "equipment": [
+            {
+                "name": "Компьютеры",
+                "count": 12,
+                "icon": "desktop"
+            }
+        ]
+    },
+    {
+        "roomId": "room_4_421",
+        "floor": 4,
+        "name": "Аудитория 421",
+        "type": "Научно-исследовательская лаборатория",
+        "desc": null,
+        "placesCount": 15,
+        "equipment": [
+            {
+                "name": "Компьютеры",
+                "count": 5,
+                "icon": "desktop"
+            }
+        ]
+    },
+	{
+    "roomId": "stairs_left",
+    "floor": 4,
+    "name": "Лестница",
+    "type": "Лестница",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "stairs_right",
+    "floor": 4,
+    "name": "Лестница",
+    "type": "Лестница",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  }
+]

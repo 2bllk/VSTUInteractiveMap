@@ -462,7 +462,7 @@
          style="mix-blend-mode:normal;fill:#ff0000;stroke:none;stroke-width:1.25985"
          cx="290.72162"
          cy="337.05435"
-         inkscape:label="strais_left_point"
+         inkscape:label="stairs_left_point"
          r="1.8897638" />
       <circle
          id="path4-2-8"
@@ -557,7 +557,7 @@
          cx="750.44775"
          cy="337.15424"
          r="1.8897638"
-         inkscape:label="strais_right_point" />
+         inkscape:label="stairs_right_point" />
       <circle
          id="path14-5-1"
          style="mix-blend-mode:normal;fill:#ff0000;stroke:none;stroke-width:1.25985"

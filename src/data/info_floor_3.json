@@ -1,0 +1,218 @@
+[
+  {
+    "roomId": "room_3_311",
+    "floor": 3,
+    "name": "Аудитория 311",
+    "type": "Лекционная аудитория",
+    "desc": null,
+    "placesCount": 25,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 10,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_3_310",
+    "floor": 3,
+    "name": "Аудитория 310",
+    "type": "Учебная аудитория",
+    "desc": null,
+    "placesCount": 15,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 3,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_3_310a",
+    "floor": 3,
+    "name": "Аудитория 310a",
+    "type": "Аспирантская кафедры прикладной математики и механики",
+    "desc": null,
+    "placesCount": 5,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 15,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_3_Wtoilet",
+    "floor": 3,
+    "name": "Женский туалет",
+    "type": "Женский туалет",
+    "desc": null,
+    "placesCount": 3,
+    "equipment": []
+  },
+  {
+    "roomId": "room_3_309",
+    "floor": 3,
+    "name": "Аудитория 309",
+    "type": "Компьютерный класс кафедры инженерной и компьютерной графики",
+    "desc": null,
+    "placesCount": 15,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 30,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_3_CloseClass",
+    "floor": 3,
+    "name": "Аудитория",
+    "type": "Закрытая аудитория",
+    "desc": "Без номера",
+    "placesCount": 15,
+    "equipment": []
+  },
+  {
+    "roomId": "room_3_308",
+    "floor": 3,
+    "name": "Аудитория 308",
+    "type": "Деканат ФИТКБ (очно)",
+    "desc": null,
+    "placesCount": 5,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 3,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_3_307",
+    "floor": 3,
+    "name": "Аудитория 307",
+    "type": "Учебный класс",
+    "desc": null,
+    "placesCount": 15,
+    "equipment": []
+  },
+  {
+    "roomId": "room_3_304",
+    "floor": 3,
+    "name": "Аудитория 304",
+    "type": "Кафедра инженерной и компьютерной графики",
+    "desc": "Заведующий кафедрой М.Н. Подоприхин",
+    "placesCount": 5,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 2,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_3_305",
+    "floor": 3,
+    "name": "Аудитория 305",
+    "type": "Деканат ФИТКБ (заочно)",
+    "desc": null,
+    "placesCount": 10,
+    "equipment": [
+      {
+        "name": "Компьютеры",
+        "count": 1,
+        "icon": "desktop"
+      }
+    ]
+  },
+  {
+    "roomId": "room_3_302",
+    "floor": 3,
+    "name": "Аудитория 302",
+    "type": "Лекционная аудитория кафедры Нефтегазовое оборудование и транспортировка",
+    "desc": null,
+    "placesCount": 30,
+    "equipment": []
+  },
+  {
+    "roomId": "room_3_303",
+    "floor": 3,
+    "name": "Аудитория 303",
+    "type": "Лекционная аудитория",
+    "desc": null,
+    "placesCount": 35,
+    "equipment": []
+  },
+  {
+    "roomId": "room_3_301",
+    "floor": 3,
+    "name": "Аудитория 301",
+    "type": "Лекционная аудитория",
+    "desc": null,
+    "placesCount": 30,
+    "equipment": [
+      {
+        "name": "Проектор",
+        "count": 1,
+        "icon": "videocam"
+      }
+    ]
+  },
+  {
+    "roomId": "room_3_312",
+    "floor": 3,
+    "name": "Аудитория 312",
+    "type": "Лекционная аудитория",
+    "desc": null,
+    "placesCount": 40,
+    "equipment": [
+      {
+        "name": "Проектор",
+        "count": 1,
+        "icon": "videocam"
+      }
+    ]
+  },
+  {
+    "roomId": "room_3_tikhnichka",
+    "floor": 3,
+    "name": "Технический кабинет",
+    "type": "Технический кабинет",
+    "desc": null,
+    "placesCount": 2,
+    "equipment": []
+  },
+  {
+    "roomId": "room_3_Mtoilet",
+    "floor": 3,
+    "name": "Мужской туалет",
+    "type": "Мужской туалет",
+    "desc": null,
+    "placesCount": 3,
+    "equipment": []
+  },
+  {
+    "roomId": "stairs_left",
+    "floor": 3,
+    "name": "Лестница",
+    "type": "Лестница",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  },
+  {
+    "roomId": "stairs_right",
+    "floor": 3,
+    "name": "Лестница",
+    "type": "Лестница",
+    "desc": null,
+    "placesCount": null,
+    "equipment": []
+  }
+]
